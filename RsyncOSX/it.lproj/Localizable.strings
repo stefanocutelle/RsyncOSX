@@ -39,13 +39,13 @@
 "Cancel or Delete" = "Annulla oppure elimina";
 
 /* Restore */
-"Cancel or Restore" = "Cancel or Restore";
+"Cancel or Restore" = "Cancella o Ripristina";
 
 /* Restore */
 "Cannot copy from a syncremote task..." = "Impossibile copiare da un'attività di syncremote...";
 
 /* Verify */
-"Cannot verify a syncremote task..." = "Impossibile verificare da un'attività sync remota...";
+"Cannot verify a syncremote task..." = "Impossibile verificare da un'attività syncremote...";
 
 /* chinese */
 "Chinese (Simplified) translation by: StringKe" = "Traduzione cinese (Semplificata) da: StringKe";
@@ -69,14 +69,14 @@
 "Copyright ©2020 Thomas Evensen" = "Copyright ©2020 Thomas Evensen";
 
 /* main */
-"daily" = "daily";
+"daily" = "giornaliero";
 
 /* Remote Info
    Verify */
 "Date last synchronize:" = "Data ultima sincronizzazione:";
 
 /* datetime */
-"days" = "days";
+"days" = "giorni";
 
 /* Remote Info
    Verify */
@@ -120,7 +120,7 @@
 "Dont change the snapshot num if you don´t know what you are doing..." = "Non cambiare il numero istantanee se non sai cosa stai facendo...";
 
 /* plan */
-"earlier months" = "earlier months";
+"earlier months" = "mesi precedenti";
 
 /* Error rsync */
 "ERROR: no rsync in" = "ERRORE: nessun rsync in";
@@ -132,7 +132,7 @@
 "Estimation completed, you can start batch..." = "Stima completata, è possibile avviare la batch...";
 
 /* plan */
-"every" = "every";
+"every" = "ogni";
 
 /* Restore */
 "Executing restore..." = "Esecuzione del ripristino...";
@@ -165,7 +165,7 @@
 "h" = "h";
 
 /* datetime */
-"hours" = "hours";
+"hours" = "ore";
 
 /* icon */
 "Icon by: Zsolt Sándor" = "Icon by: Zsolt Sándor";
@@ -174,13 +174,13 @@
 "Italian translation by: Stefano Steve Cutelle" = "Traduzione italiana di: Stefano Steve Cutelle";
 
 /* plan */
-"Keep" = "Mantieni";
+"Keep" = "mantieni";
 
 /* plan */
-"last" = "last";
+"last" = "ultimo";
 
 /* Profile */
-"Load" = "Carica";
+"Load" = "carica";
 
 /* Remote info
    Remote Info */
@@ -199,7 +199,7 @@
 "Menu app is running..." = "Menu applicazione in esecuzione...";
 
 /* datetime */
-"mins" = "mins";
+"mins" = "minuti";
 
 /* plan */
 "Monday" = "Lunedì";
@@ -214,16 +214,16 @@
 "No rsync in path..." = "Nessun rsync nel percorso...";
 
 /* Schedule details */
-"no startdate" = "no startdate";
+"no startdate" = "nessuna data di inizio";
 
 /* Schedule details */
-"no stopdate" = "no stopdate";
+"no stopdate" = "nessuna data di fine";
 
 /* Restore */
 "No such temporay catalog for restore, set it in user config." = "Nessun cartella temporanea per il ripristino, impostato nella configurazione utente.";
 
 /* plan */
-"none" = "none";
+"none" = "nessuna";
 
 /* norwegian */
 "Norwegian translation by: Thomas Evensen" = "Traduzione norvegese da: Thomas Evensen";
@@ -238,123 +238,123 @@
 "Number of configurations:" = "Numero di configurazioni:";
 
 /* Logg */
-"Number of logs:" = "Number of logs:";
+"Number of logs:" = "Numero di logs:";
 
 /* Restore */
-"Number of remote files:" = "Number of remote files:";
+"Number of remote files:" = "Numero di files remoti:";
 
 /* Remote info */
-"Number of tasks to estimate:" = "Number of tasks to estimate:";
+"Number of tasks to estimate:" = "Numero di attività stimate:";
 
 /* Snapshots */
-"Number snapshots:" = "Number snapshots:";
+"Number snapshots:" = "Numero snapshots:";
 
 /* main */
-"once" = "once";
+"once" = "Una volta";
 
 /* Verify */
-"Please select a task in Synchronize ..." = "Please select a task in Synchronize ...";
+"Please select a task in Synchronize ..." = "Perfavore seleziona una attività in Sincronizzare ...";
 
 /* Execute */
-"Possible error logging..." = "Possible error logging...";
+"Possible error logging..." = "Possibile errore di logging...";
 
 /* plan */
-"previous month" = "previous month";
+"previous month" = "il mese scorso";
 
 /* Execute */
-"Profile:" = "Profile:";
+"Profile:" = "Profilo:";
 
 /* Execute */
-"Profile: please wait..." = "Profile: please wait...";
+"Profile: please wait..." = "Profilo: attendere prego...";
 
 /* Tooltip */
-"Remote catalog:" = "Remote catalog:";
+"Remote catalog:" = "Cartella remota:";
 
 /* Restore */
-"Restore" = "Restore";
+"Restore" = "Ripristino";
 
 /* plan */
-"Saturday" = "Saturday";
+"Saturday" = "Sabato";
 
 /* Profile
    Userconfig */
-"Save" = "Save";
+"Save" = "Salva";
 
 /* Schedules */
-"Scheduled tasks in menu app..." = "Scheduled tasks in menu app...";
+"Scheduled tasks in menu app..." = "Attività pianificate nell'app menu...";
 
 /* datetime */
-"secs" = "secs";
+"secs" = "secondi";
 
 /* Copy files
    Remote Info
    Verify */
-"Seems not to be connected..." = "Seems not to be connected...";
+"Seems not to be connected..." = "Sembra che non sei collegato...";
 
 /* Execute */
-"Select a task...." = "Select a task....";
+"Select a task...." = "Seleziona un attività....";
 
 /* Logg */
-"Selected logs:" = "Selected logs:";
+"Selected logs:" = "Seleziona tipo di log:";
 
 /* Execute */
-"Selection out of range - aborting" = "Selection out of range - aborting";
+"Selection out of range - aborting" = "Selezione fuori intervallo - interruzione";
 
 /* Snapshots */
-"Seriously, enter a real number..." = "Seriously, enter a real number...";
+"Seriously, enter a real number..." = "Scherzi a parte, inserisci un numero reale...";
 
 /* Tooltip */
-"Source catalog:" = "Source catalog:";
+"Source catalog:" = "Percorso locale:";
 
 /* Restore */
-"Start" = "Start";
+"Start" = "Avvio";
 
 /* Restore */
-"Start getting files?" = "Start getting files?";
+"Start getting files?" = "Inizia a ricevere file?";
 
 /* Restore */
-"Start restore?" = "Start restore?";
+"Start restore?" = "Inizia il ripristino?";
 
 /* main */
-"stopped" = "stopped";
+"stopped" = "ferma";
 
 /* dayofweek
    plan */
-"Sunday" = "Sunday";
+"Sunday" = "Domenica";
 
 /* Execute */
-"The menu app" = "The menu app";
+"The menu app" = "l'app del menu";
 
 /* Quickbackup */
-"There seems to be nothing to do..." = "There seems to be nothing to do...";
+"There seems to be nothing to do..." = "Sembra che non ci sia nulla da fare...";
 
 /* New */
-"This is added before?" = "This is added before?";
+"This is added before?" = "Questo è stato aggiunto prima?";
 
 /* plan */
-"this month" = "this month";
+"this month" = "questo mese";
 
 /* plan */
 "this week" = "questa settimana";
 
 /* plan */
-"Thursday" = "Thursday";
+"Thursday" = "Giovedì";
 
 /* plan */
-"Tuesday" = "Tuesday";
+"Tuesday" = "Martedì";
 
 /* Verify */
-"Verifying, please wait..." = "Verifying, please wait...";
+"Verifying, please wait..." = "Verifica, per favore aspetta...";
 
 /* plan */
-"Wednesday" = "Wednesday";
+"Wednesday" = "Mercoledì";
 
 /* main */
-"weekly" = "settimanale";
+"weekly" = "Settimanale";
 
 /* Snapshots */
-"You cannot delete that many, max are" = "You cannot delete that many, max are";
+"You cannot delete that many, max are" = "Non è possibile eliminare così tante istantanee, limite raggiunto";
 
 /* About */
-"You have the latest ..." = "You have the latest ...";
+"You have the latest ..." = "Tu hai l'ultima versione ...";
 
